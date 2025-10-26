@@ -64,10 +64,6 @@ EndHour = 18
 **Kamran Ali — Kamran Ali Developer**  
 📧 [kamranalideveloper@gmail.com](mailto:kamranalideveloper@gmail.com)
 
-> *Aurora Premium EA — Intelligent trading through precision and control.*
+> **Aurora Premium EA — Intelligent trading through precision and control.**
 
 ---
-
-### 🗂️ GitHub Repository
-**Repo Name:** `AuroraPremiumEA`  
-**Short Description:** “Professional MetaTrader 5 Expert Advisor using multi-strategy AI-driven trading and advanced risk management.”
